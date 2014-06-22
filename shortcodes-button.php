@@ -30,4 +30,6 @@ function shortcode_register_mce_button( $buttons )
 	array_push( $buttons, 'shortcode_mce_button' );
 	return $buttons;
 }
+
+/* Functions taken from AJ Clarke: http://www.wpexplorer.com/wordpress-tinymce-tweaks/ */
 ?>
