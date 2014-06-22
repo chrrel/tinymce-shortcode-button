@@ -17,7 +17,7 @@ add_action('admin_head', 'shortcode_add_mce_button');
 
 function shortcode_add_tinymce_plugin( $plugin_array ) // script for the new button
 {
-	$plugin_array['shortcode_mce_button'] =  get_stylesheet_directory_uri() .'/js/shortcode-button.js';
+	$plugin_array['shortcode_mce_button'] =  get_stylesheet_directory_uri() .'/js/mce-button.js';
 	return $plugin_array;
 }
 
