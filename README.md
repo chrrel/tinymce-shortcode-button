@@ -9,4 +9,4 @@ How to use the code
 
 Include the PHP-Code into your theme's functions.php. Pay attention when editing this file, best use  require_once("path/to/file/shortcodes-button.php");
 
-Make sure to change the location of the javascript file or the path to it in the PHP file.
+Make sure to change the location of the javascript file or the path to it in the PHP file if necessary.
