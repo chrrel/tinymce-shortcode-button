@@ -1,7 +1,7 @@
 Button for shortcodes in the TinyMCE editor 
 ===========================================
 
-Adds a new Button to the TinyMCE editor used in WordPress, which enables the author to insert the defined shortcodes. 
+Adds a new Button to the TinyMCE editor used in WordPress, which enables an author to insert the defined shortcodes. 
 The shortcodes themselves are not implemented in this project.
 
 How to use the code
